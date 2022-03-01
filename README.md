@@ -9,4 +9,4 @@ The top 5 most desirable features are:
 
 Below are the links to the figma prototype and a video explaining all the new features:
 Figma: https://www.figma.com/file/3NEM8hODqgaAhFrA7UL3KY/My-Courses?node-id=0%3A1
-Video: 
+Video: https://youtu.be/oiA8vl8rtXc
